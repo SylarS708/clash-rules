@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitchsvc.net
-DOMAIN-KEYWORD,twitch   # 可選，寬鬆匹配，容易誤傷
+DOMAIN-KEYWORD,twitch  
 DOMAIN,cloudfront.hls.ttvnw.net
 IP-CIDR,103.53.48.0/23,no-resolve
 IP-CIDR,185.42.204.0/22,no-resolve
