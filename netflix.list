@@ -1026,7 +1026,6 @@ IP-CIDR,52.199.127.192/26,no-resolve
 IP-CIDR,52.212.248.0/26,no-resolve
 IP-CIDR,52.215.218.112/28,no-resolve
 IP-CIDR,52.215.218.64/28,no-resolve
-IP-CIDR,52.22.0.0/16,no-resolve
 IP-CIDR,52.220.191.0/26,no-resolve
 IP-CIDR,52.221.221.128/29,no-resolve
 IP-CIDR,52.23.61.0/24,no-resolve
