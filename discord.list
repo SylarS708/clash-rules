@@ -1,1 +1,27 @@
+# discord 規則
+# 主站
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
 
+# CDN（头像 / 图片 / 文件）
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordcdn.com
+
+# 邀请链接
+DOMAIN-SUFFIX,discord.gg
+
+# 语音 / 视频 / Go Live
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,rtc.discord.com
+
+# 开发 / API
+DOMAIN-SUFFIX,discord.dev
+
+# 状态服务
+DOMAIN-SUFFIX,discordstatus.com
+
+# 旧版客户端域（部分客户端仍访问）
+DOMAIN-SUFFIX,discordapp.io
+
+# 兜底
+DOMAIN-KEYWORD,discord
