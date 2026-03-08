@@ -1,1 +1,19 @@
 # YouTube 規則
+- DOMAIN-SUFFIX,youtube.com
+- DOMAIN-SUFFIX,youtu.be
+- DOMAIN-SUFFIX,youtube-nocookie.com
+
+- DOMAIN-SUFFIX,googlevideo.com
+- DOMAIN-SUFFIX,ytimg.com
+
+- DOMAIN-SUFFIX,youtube.googleapis.com
+- DOMAIN-SUFFIX,youtubei.googleapis.com
+- DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+
+- DOMAIN-SUFFIX,gvt1.com
+- DOMAIN-SUFFIX,gvt2.com
+
+- DOMAIN-SUFFIX,withyoutube.com
+- DOMAIN-SUFFIX,youtubekids.com
+- DOMAIN-KEYWORD,youtube
+
